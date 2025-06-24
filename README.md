@@ -1,8 +1,8 @@
 Hi there, I'm Shenali Vitharana (Shenali Melder)! 👋
 
-&lt;p align="center">
-![1725566805894](https://github.com/user-attachments/assets/e69f2d5d-fb1c-4ab7-93be-dded5766eae2)
-&lt;/p>
+<p align="center">
+<img src="![1725566805894](https://github.com/user-attachments/assets/e69f2d5d-fb1c-4ab7-93be-dded5766eae2)" style="height: 40px; width:50px;">
+</p>
 
 About Me
 I'm a passionate computer science enthusiast who thrives on bringing a blend of technical expertise and creative problem-solving to every project. My dedication to innovation drives me to constantly seek out new challenges and explore fresh approaches. I'm a strong team player and an excellent communicator, always committed to delivering exceptional results across Software Development, DevOps, QA, and Cybersecurity.
