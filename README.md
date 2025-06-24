@@ -1,4 +1,4 @@
-Hi there, I'm Shenali Vitharana (Shenali Melder)! 👋
+Hi there, I'm Shenali Melder! 👋
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e69f2d5d-fb1c-4ab7-93be-dded5766eae2" style="height:15vw; width:15vw;">
