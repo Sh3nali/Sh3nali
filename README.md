@@ -1,5 +1,7 @@
+Hi there, I'm Shenali Vitharana (Shenali Melder)! 👋
+
 &lt;p align="center">
-&lt;img src="./shenali_linkedin_profile.png" width="200px" alt="Shenali Vitharana (Shenali Melder) Profile Picture">
+![1725566805894](https://github.com/user-attachments/assets/e69f2d5d-fb1c-4ab7-93be-dded5766eae2)
 &lt;/p>
 
 About Me
