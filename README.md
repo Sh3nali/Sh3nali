@@ -1,7 +1,7 @@
 Hi there, I'm Shenali Vitharana (Shenali Melder)! 👋
 
 <p align="center">
-<img src="![1725566805894](https://github.com/user-attachments/assets/e69f2d5d-fb1c-4ab7-93be-dded5766eae2)" style="height: 40px; width:50px;">
+<img src="![1725566805894](https://github.com/user-attachments/assets/e69f2d5d-fb1c-4ab7-93be-dded5766eae2)" style="height: 40vw; width:50vw;">
 </p>
 
 About Me
